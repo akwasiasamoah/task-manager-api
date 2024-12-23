@@ -187,7 +187,3 @@ Errors are handled using a custom error-handling middleware.
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Feel free to modify this documentation as per your project needs!
